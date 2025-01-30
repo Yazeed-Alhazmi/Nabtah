@@ -7,7 +7,7 @@ import plotly.graph_objects as go # for Radar Chart
 
 
 # loading the patterns from patterns.json file
-with open("patterns.json", 'r') as patterns_json:
+with open("Data/patterns.json", 'r') as patterns_json:
     patterns = json.load(patterns_json)
 
 nlp = spacy.load('en_core_web_lg')
@@ -83,7 +83,7 @@ class Analyze:
             return {"status": "warning", "message": "It seems the assessment was not completed. Please retake the assessment"}
 
         # Calculating the total score
-        with open("track_to_RIASEC.json", "r") as track_to_RIASEC_json:
+        with open("Data/track_to_RIASEC.json", "r") as track_to_RIASEC_json:
             track_to_RIASEC = json.load(track_to_RIASEC_json)
 
         for track, RIASEC_Codes in track_to_RIASEC.items():
