@@ -1,0 +1,11 @@
+{
+    "General": ["Artistic", "Social", "Enterprising", "Conventional", "Investigative"],
+
+    "Computer Science and Engineering": ["Realistic", "Conventional", "Investigative"],
+
+    "Health and Life Sciences": ["Investigative", "Realistic", "Social"],
+
+    "Business Administration": ["Enterprising", "Artistic", "Conventional"],
+    
+    "Sharia": ["Investigative", "Social"]
+}
