@@ -4,16 +4,8 @@ from Matcher import Analyze
 
 st.set_page_config(page_title="Nabtah", page_icon="🌿", layout="centered")
 
-st.logo("Medvation_logo.png", size='large', link='https://www.medvation.net')
-
-st.html("""
-        <style>
-            [alt=Logo] {
-            height: 4rem;
-            }
-        </style>
-    """)
-
+st.logo("Images/Medvation_logo.png", link='https://www.medvation.net')
+st.html(""" <style> [alt=Logo] { height: 4rem; } </style> """) # logo size
 
 client = openai.OpenAI(api_key=st.secrets["OPENAI_API_KEY"]) # Opeai API Key
 # LLM Model
