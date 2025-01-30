@@ -21,8 +21,6 @@ matcher = Matcher(nlp.vocab) # Initializing the Matcher
 for pattern_label, pattern in patterns.items():
     matcher.add(pattern_label, pattern)
 
-# %%
-
 # Apply matcher with BERT sentiment analysis
 class Analyze:
 
