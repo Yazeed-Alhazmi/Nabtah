@@ -1,6 +1,6 @@
 # Nabtah 🌿
 
-This project analyzes a conversation to recommend a high school track based on pattern matching, sentiment analysis, Career paths and Holland Codes
+Nabtah analyzes a conversation to recommend a high school track based on pattern matching, sentiment analysis, Career paths and Holland Codes
 
 ## Features
 SpaCy Matcher to detect relevant career-related and Holland codes (RIASEC) keywords in a given conversation
