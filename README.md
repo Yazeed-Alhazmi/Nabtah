@@ -19,19 +19,19 @@ Radar Chart Visualization to compare different track scores
   - Loads keyword patterns from patterns.json
   - Uses SpaCy's Matcher to find relevant keywords in a given conversation
 
-2. Sentiment Analysis using BERT
+### 2. Sentiment Analysis using BERT
   - Extracts context words around the matched keywords
   - Uses the sentiment model to classify sentiment into:
     - Positive: +1 to the track/RIASEC code score
     - Negative: -1 to the track/RIASEC code score
    
-3. RIASEC Code Analysis
+### 3. RIASEC Code Analysis
   - Maps tracks to RIASEC codes using track_to_RIASEC.json
 
-4. Track Recommendation
+### 4. Track Recommendation
   - The total score for each track is computed as:
       $\text{Total Score} = \text{Track Score} + 0.5 \times \sum (\text{RIASEC Scores})$
   - The track with the highest score is recommended
 
-5. Radar Chart Visualization
+### 5. Radar Chart Visualization
   - Generates a Radar Chart to compare different tracks score
