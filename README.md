@@ -1,6 +1,6 @@
 # Nabtah 🌿
 
-This project analyzes a conversation to recommend a high school track based on pattern matching, sentiment analysis, and Holland Codes
+This project analyzes a conversation to recommend a high school track based on pattern matching, sentiment analysis, Career paths and Holland Codes
 
 ## Features
 SpaCy Matcher to detect relevant career-related and Holland codes (RIASEC) keywords in a given conversation
@@ -30,10 +30,8 @@ Radar Chart Visualization to compare different track scores
 
 4. Track Recommendation
   - The total score for each track is computed as:
-      Total Score = Track Score + 0.5×∑(RIASEC Scores)
+      $\text{Total Score} = \text{Track Score} + 0.5 \times \sum (\text{RIASEC Scores})$
   - The track with the highest score is recommended
 
 5. Radar Chart Visualization
   - Generates a Radar Chart to compare different tracks score
-
-$\text{Total Score} = \text{Track Score} + 0.5 \times \sum (\text{RIASEC Scores})$
