@@ -1,6 +1,6 @@
 import streamlit as st
 import openai
-from projectM_matcher_V2 import Analyze
+from Matcher import Analyze
 
 st.set_page_config(page_title="Nabtah", page_icon="🌿", layout="centered")
 
