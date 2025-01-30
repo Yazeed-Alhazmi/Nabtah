@@ -113,8 +113,6 @@ class Analyze:
         if normalize:
             min_score = min(sorted_scores)
             max_score = max(sorted_scores)
-            print("max = ", max_score)
-            print("min = ", min_score)
             scores = [(score - min_score) / (max_score - min_score) for score in sorted_scores]
             scores = [round(score, 3) for score in scores] # ".3f"
 
