@@ -1,0 +1,292 @@
+{
+
+    "Computer Science and Engineering": [
+
+        [{"LEMMA": "computer"}, {"LEMMA": "science"}], [{"LOWER": "computer"}, {"LOWER": "science"}],
+    
+
+        [{"LEMMA": "code"}], [{"LOWER": "coding"}], [{"LEMMA": "program"}], [{"LOWER": "programming"}],[{"LOWER": "programmer"}],
+        [{"LOWER": "python"}], [{"LOWER": "java"}], [{"LOWER": "c++"}], [{"LOWER": "debug"}],
+        [{"LEMMA": "software"}, {"LEMMA": "development"}], [{"LOWER": "software"}, {"LOWER": "development"}],
+    
+
+        [{"LEMMA": "software"}, {"LEMMA": "engineer"}], [{"LOWER": "software"}, {"LOWER": "engineering"}],
+        [{"LEMMA": "cloud"}], [{"LOWER": "cloud"}], [{"LEMMA": "architecture"}], [{"LOWER": "architecture"}],
+    
+
+        [{"LEMMA": "artificial"}, {"LEMMA": "intelligence"}], [{"LOWER": "artificial"}, {"LOWER": "intelligence"}],
+        [{"LOWER": "ai"}], [{"LEMMA": "machine"}, {"LEMMA": "learning"}], [{"LOWER": "machine"}, {"LOWER": "learning"}],
+        [{"LEMMA": "deep"}, {"LEMMA": "learning"}], [{"LOWER": "deep"}, {"LOWER": "learning"}],
+        [{"LEMMA": "algorithm"}], [{"LOWER": "algorithm"}],
+    
+
+        [{"LEMMA": "cybersecurity"}], [{"LOWER": "cybersecurity"}], [{"LEMMA": "hack"}], [{"LOWER": "hacking"}],
+        [{"LEMMA": "secure"}], [{"LOWER": "security"}],
+    
+
+        [{"LEMMA": "robotic"}], [{"LOWER": "robotics"}], [{"LEMMA": "automation"}], [{"LOWER": "automation"}],
+        [{"LEMMA": "robot"}], [{"LOWER": "robot"}],
+    
+
+        [{"LEMMA": "data"}, {"LEMMA": "science"}], [{"LOWER": "data"}, {"LOWER": "science"}],
+        [{"LEMMA": "data"}, {"LEMMA": "analysis"}], [{"LOWER": "data"}, {"LOWER": "analysis"}],
+        [{"LEMMA": "database"}], [{"LOWER": "database"}], [{"LEMMA": "data"}, {"LEMMA": "model"}],
+        [{"LOWER": "data"}, {"LOWER": "modeling"}],
+    
+
+        [{"LEMMA": "web"}, {"LEMMA": "development"}], [{"LOWER": "web"}, {"LOWER": "development"}],
+        [{"LEMMA": "html"}], [{"LOWER": "html"}], [{"LEMMA": "css"}], [{"LOWER": "css"}],
+        [{"LEMMA": "javascript"}], [{"LOWER": "javascript"}], [{"LEMMA": "backend"}], [{"LOWER": "backend"}],
+        [{"LEMMA": "frontend"}], [{"LOWER": "frontend"}], [{"LEMMA": "full"}, {"LEMMA": "stack"}],
+        [{"LOWER": "full"}, {"LOWER": "stack"}],
+    
+
+        [{"LEMMA": "game"}, {"LEMMA": "development"}], [{"LOWER": "game"}, {"LOWER": "development"}],
+        [{"LEMMA": "unity"}], [{"LOWER": "unity"}], [{"LEMMA": "unreal"}], [{"LOWER": "unreal"}],
+        [{"LEMMA": "engine"}], [{"LOWER": "engine"}],
+    
+
+        [{"LEMMA": "operating"}, {"LEMMA": "system"}], [{"LOWER": "operating"}, {"LOWER": "system"}],
+        [{"LEMMA": "hardware"}, {"LEMMA": "software"}], [{"LOWER": "hardware"}, {"LOWER": "software"}],
+    
+
+        [{"LEMMA": "mechanical"}, {"LEMMA": "engineer"}], [{"LOWER": "mechanical"}, {"LOWER": "engineering"}],
+        [{"LEMMA": "mechanic"}], [{"LOWER": "mechanic"}], [{"LEMMA": "design"}, {"LEMMA": "machine"}],
+        [{"LOWER": "designing"}, {"LOWER": "machines"}], [{"LEMMA": "cad"}], [{"LOWER": "cad"}],
+    
+
+        [{"LEMMA": "electrical"}, {"LEMMA": "engineer"}], [{"LOWER": "electrical"}, {"LOWER": "engineering"}],
+        [{"LEMMA": "circuit"}], [{"LOWER": "circuit"}], [{"LEMMA": "electronics"}], [{"LOWER": "electronics"}],
+        [{"LEMMA": "signal"}, {"LEMMA": "processing"}], [{"LOWER": "signal"}, {"LOWER": "processing"}],
+    
+
+        [{"LEMMA": "civil"}, {"LEMMA": "engineer"}], [{"LOWER": "civil"}, {"LOWER": "engineering"}],
+        [{"LEMMA": "structural"}, {"LEMMA": "design"}], [{"LOWER": "structural"}, {"LOWER": "design"}],
+    
+
+        [{"LEMMA": "project"}, {"LEMMA": "management"}], [{"LOWER": "project"}, {"LOWER": "management"}],
+        [{"LEMMA": "teamwork"}], [{"LOWER": "teamwork"}], [{"LEMMA": "budget"}], [{"LOWER": "budget"}],
+    
+        [{"LEMMA": "math"}], [{"LOWER": "math"}]
+    
+    ],
+    
+    "Health and Life Sciences": [
+
+        [{"LOWER": "biology"}], [{"LOWER": "genetics"}], [{"LOWER": "animals"}],
+        [{"LOWER": "plants"}], [{"LOWER": "nature"}], [{"LOWER": "ecology"}],
+        [{"LOWER": "cells"}], [{"LOWER": "microbes"}], [{"LOWER": "evolution"}],
+    
+
+        [{"LOWER": "doctor"}], [{"LOWER": "nurse"}], [{"LOWER": "surgeon"}],
+        [{"LOWER": "therapist"}], [{"LOWER": "pharmacist"}], [{"LOWER": "dentist"}],
+        [{"LOWER": "vet"}], [{"LOWER": "optometrist"}], [{"LOWER": "physician"}],
+    
+
+        [{"LOWER": "health"}], [{"LOWER": "healthcare"}], [{"LOWER": "hospital"}],
+        [{"LOWER": "clinic"}], [{"LOWER": "mental health"}], [{"LOWER": "first aid"}],
+        [{"LOWER": "care"}], [{"LOWER": "volunteer"}],
+        [{"LOWER": "nursing"}], [{"LOWER": "patients"}],
+    
+
+        [{"LOWER": "help"}], [{"LOWER": "care"}], [{"LOWER": "heal"}], [{"LOWER": "save"}],
+    
+
+        [{"LOWER": "research"}], [{"LOWER": "lab"}], [{"LOWER": "science"}],
+        [{"LOWER": "vaccine"}], [{"LOWER": "cure"}], [{"LOWER": "disease"}],
+        [{"LOWER": "virus"}], [{"LOWER": "pandemic"}], [{"LOWER": "cancer"}],
+        [{"LOWER": "medicine"}], [{"LOWER": "mental health"}], [{"LOWER": "brain"}],
+        [{"LOWER": "psychology"}], [{"LOWER": "neuroscience"}],
+    
+
+        [{"LOWER": "environment"}], [{"LOWER": "climate"}], [{"LOWER": "global health"}],
+        [{"LOWER": "sustainability"}], [{"LOWER": "nature"}],
+    
+
+        [{"LOWER": "chemistry"}], [{"LOWER": "drugs"}], [{"LOWER": "pharmacy"}],
+        [{"LOWER": "pharmaceuticals"}], [{"LOWER": "toxins"}]
+    ],
+
+    "Business Administration":  [
+
+        [{"LOWER": "business"}], [{"LOWER": "entrepreneur"}], [{"LOWER": "startup"}],
+        [{"LOWER": "company"}], [{"LOWER": "ceo"}], [{"LOWER": "founder"}],
+        [{"LOWER": "own business"}], [{"LOWER": "run a business"}], [{"LOWER": "start a business"}],
+    
+
+        [{"LOWER": "leader"}], [{"LOWER": "leadership"}], [{"LOWER": "manager"}],
+        [{"LOWER": "management"}], [{"LOWER": "teamwork"}], [{"LOWER": "organize"}],
+        [{"LOWER": "decision making"}], [{"LOWER": "plan"}], [{"LOWER": "delegate"}],
+    
+
+        [{"LOWER": "money"}], [{"LOWER": "finance"}], [{"LOWER": "investing"}],
+        [{"LOWER": "stocks"}], [{"LOWER": "cryptocurrency"}], [{"LOWER": "budget"}],
+        [{"LOWER": "saving"}], [{"LOWER": "profit"}], [{"LOWER": "loss"}], [{"LOWER": "revenue"}],
+    
+
+        [{"LOWER": "marketing"}], [{"LOWER": "advertising"}], [{"LOWER": "sales"}],
+        [{"LOWER": "social media"}], [{"LOWER": "branding"}], [{"LOWER": "customer"}],
+        [{"LOWER": "client"}], [{"LOWER": "product"}], [{"LOWER": "campaign"}],
+    
+
+        [{"LOWER": "negotiate"}], [{"LOWER": "deal"}], [{"LOWER": "communication"}],
+        [{"LOWER": "networking"}], [{"LOWER": "problem solving"}], [{"LOWER": "strategy"}],
+        [{"LOWER": "project"}], [{"LOWER": "analyze"}], [{"LOWER": "organize"}], [{"LOWER": "team"}],
+    
+
+        [{"LOWER": "success"}], [{"LOWER": "build"}], [{"LOWER": "growth"}], [{"LOWER": "career"}],
+        [{"LOWER": "entrepreneurship"}], [{"LOWER": "market"}], [{"LOWER": "profit"}],
+    
+
+        [{"LOWER": "economics"}], [{"LOWER": "business studies"}], [{"LOWER": "commerce"}],
+        [{"LOWER": "trade"}], [{"LOWER": "supply chain"}], [{"LOWER": "operations"}],
+        [{"LOWER": "accounting"}], [{"LOWER": "financial"}], [{"LOWER": "analysis"}],
+    
+
+        [{"LOWER": "ecommerce"}], [{"LOWER": "online business"}], [{"LOWER": "digital marketing"}],
+        [{"LOWER": "tech startup"}], [{"LOWER": "fintech"}], [{"LOWER": "innovation"}],
+        [{"LOWER": "data"}], [{"LOWER": "analytics"}]
+    ],
+
+    "Sharia": [
+
+        [{"LOWER": "islamic law"}], [{"LOWER": "sharia"}], [{"LOWER": "fiqh"}],
+        [{"LOWER": "quran"}], [{"LOWER": "hadith"}], [{"LOWER": "sunnah"}],
+        [{"LOWER": "halal"}], [{"LOWER": "haram"}], [{"LOWER": "fatwa"}],
+    
+
+        [{"LOWER": "imam"}], [{"LOWER": "scholar"}], [{"LOWER": "mufti"}],
+        [{"LOWER": "preacher"}], [{"LOWER": "teacher"}], [{"LOWER": "ustadh"}],
+        [{"LOWER": "hafiz"}], [{"LOWER": "sheikh"}],
+    
+
+        [{"LOWER": "justice"}], [{"LOWER": "morality"}], [{"LOWER": "ethics"}],
+        [{"LOWER": "community"}], [{"LOWER": "help people"}], [{"LOWER": "peace"}],
+        [{"LOWER": "charity"}], [{"LOWER": "zakat"}], [{"LOWER": "sadaqah"}],
+    
+
+        [{"LOWER": "help"}], [{"LOWER": "teach"}], [{"LOWER": "guide"}],
+        [{"LOWER": "preach"}], [{"LOWER": "learn islam"}], [{"LOWER": "spread islam"}],
+    
+
+        [{"LOWER": "law"}], [{"LOWER": "legal"}], [{"LOWER": "justice"}],
+        [{"LOWER": "islamic rules"}], [{"LOWER": "jurisprudence"}], [{"LOWER": "court"}],
+        [{"LOWER": "judge"}], [{"LOWER": "lawyer"}],
+    
+
+        [{"LOWER": "arabic"}], [{"LOWER": "language"}], [{"LOWER": "culture"}],
+        [{"LOWER": "traditions"}], [{"LOWER": "history"}],
+    
+
+        [{"LOWER": "prayer"}], [{"LOWER": "salah"}], [{"LOWER": "fasting"}],
+        [{"LOWER": "ramadan"}], [{"LOWER": "hajj"}], [{"LOWER": "umrah"}],
+        [{"LOWER": "zakat"}], [{"LOWER": "sadaqah"}],
+    
+
+        [{"LOWER": "aqeedah"}], [{"LOWER": "tawheed"}], [{"LOWER": "belief"}],
+        [{"LOWER": "faith"}], [{"LOWER": "islamic studies"}], [{"LOWER": "theology"}],
+    
+
+        [{"LOWER": "help society"}], [{"LOWER": "serve community"}],
+        [{"LOWER": "spread kindness"}], [{"LOWER": "volunteer"}], [{"LOWER": "charity"}],
+        [{"LOWER": "social justice"}],
+    
+
+        [{"LOWER": "islamic history"}], [{"LOWER": "prophet"}], [{"LOWER": "companions"}],
+        [{"LOWER": "caliphs"}], [{"LOWER": "islamic civilization"}], [{"LOWER": "scholars"}],
+        [{"LOWER": "islamic culture"}], [{"LOWER": "tradition"}]
+    ],
+
+    "Realistic": [
+        [{"LEMMA": "build"}],
+        [{"LEMMA": "drive"}],
+        [{"LEMMA": "install"}],
+        [{"LEMMA": "maintain"}],
+        [{"LEMMA": "repair"}],
+        [{"LEMMA": "work"}, {"LOWER": "with"}, {"LEMMA": "hand"}],
+        [{"LEMMA": "animal"}],
+        [{"LEMMA": "electronic"}],
+        [{"LEMMA": "equipment"}],
+        [{"LEMMA": "machine"}],
+        [{"LEMMA": "plant"}],
+        [{"LEMMA": "tool"}]
+    ],
+
+    "Investigative": [
+        [{"LEMMA": "analyze"}],
+        [{"LEMMA": "diagnose"}],
+        [{"LEMMA": "discover"}],
+        [{"LEMMA": "problem"}, {"LEMMA": "solve"}],
+        [{"LEMMA": "research"}],
+        [{"LEMMA": "study"}],
+        [{"LEMMA": "test"}],
+        [{"LEMMA": "think"}],
+        [{"LEMMA": "fact"}],
+        [{"LEMMA": "idea"}],
+        [{"LEMMA": "knowledge"}],
+        [{"LEMMA": "laboratory"}],
+        [{"LEMMA": "science"}]
+    ],
+
+    "Artistic": [
+        [{"LEMMA": "compose"}],
+        [{"LEMMA": "create"}],
+        [{"LEMMA": "dance"}],
+        [{"LEMMA": "design"}],
+        [{"LEMMA": "perform"}],
+        [{"LOWER": "self"}, {"LEMMA": "express"}],
+        [{"LEMMA": "write"}],
+        [{"LEMMA": "art"}],
+        [{"LEMMA": "graphic"}],
+        [{"LEMMA": "media"}],
+        [{"LEMMA": "music"}],
+        [{"LEMMA": "theatre"}]
+    ],
+    
+    "Social": [
+        [{"LEMMA": "advise"}],
+        [{"LEMMA": "educate"}],
+        [{"LEMMA": "guide"}],
+        [{"LEMMA": "help"}],
+        [{"LEMMA": "nurture"}],
+        [{"LEMMA": "teach"}],
+        [{"LEMMA": "communicate"}],
+        [{"LEMMA": "health"}],
+        [{"LEMMA": "people"}],
+        [{"LEMMA": "service"}],
+        [{"LEMMA": "social"}]
+    ],
+    
+    "Enterprising": [
+        [{"LEMMA": "direct"}],
+        [{"LEMMA": "lead"}],
+        [{"LEMMA": "manage"}],
+        [{"LEMMA": "market"}],
+        [{"LEMMA": "negotiate"}],
+        [{"LEMMA": "sell"}],
+        [{"LEMMA": "supervise"}],
+        [{"LEMMA": "business"}],
+        [{"LEMMA": "customer"}],
+        [{"LEMMA": "employee"}],
+        [{"LEMMA": "law"}],
+        [{"LEMMA": "politics"}],
+        [{"LEMMA": "product"}]
+    ],
+    
+    "Conventional": [
+        [{"LEMMA": "attention"}, {"LOWER": "to"}, {"LEMMA": "detail"}],
+        [{"LEMMA": "file"}],
+        [{"LEMMA": "inspect"}],
+        [{"LEMMA": "organize"}],
+        [{"LEMMA": "record"}],
+        [{"LEMMA": "sort"}],
+        [{"LEMMA": "data"}],
+        [{"LEMMA": "file"}],
+        [{"LEMMA": "information"}],
+        [{"LEMMA": "office"}],
+        [{"LEMMA": "procedure"}],
+        [{"LEMMA": "regulation"}],
+        [{"LEMMA": "rule"}]
+    ]
+}
+
