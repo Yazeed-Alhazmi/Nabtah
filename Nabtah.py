@@ -80,8 +80,8 @@ if st.session_state.page == "Chat": # Chat Page
 
     with st.sidebar:
 
-        st.sidebar.markdown("### View Your Career Recommendation")
-        st.sidebar.markdown("Click the button below to see your recommended career track!")
+        st.sidebar.markdown("### View Your High School Track Recommendation")
+        st.sidebar.markdown("Click the button below to see your recommended track!")
         # Button to switch to the Recommendations page
         if st.button("Recommendation"):
             st.session_state.page = "Recommendation"
