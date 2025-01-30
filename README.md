@@ -14,7 +14,6 @@ Scoring system to evaluate and recommend one of the five tracks:
 Radar Chart Visualization to compare different track scores
 
 ## How It Works
-
 ### 1. Pattern Matching with SpaCy
   - Loads keyword patterns from patterns.json
   - Uses SpaCy's Matcher to find relevant keywords in a given conversation
